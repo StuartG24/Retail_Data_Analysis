@@ -1,0 +1,30 @@
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+
+
+% custom_template.tplx
+((*- extends 'article.tplx' -*))
+
+((* block docclass *))
+\documentclass[12pt]{article}
+((* endblock docclass *))
+
+((* block packages *))
+% Add any additional packages here
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+((* endblock packages *))
+
+((* block definitions *))
+% Add any additional definitions here
+((* endblock definitions *))
+
+((* block header *))
+% Add any additional header content here
+((* endblock header *))
+
+((* block body *))
+% Add any additional body content here
+((* endblock body *))

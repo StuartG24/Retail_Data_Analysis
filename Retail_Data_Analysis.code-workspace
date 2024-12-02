@@ -5,6 +5,14 @@
 		}
 	],
 	"settings": {
-		"notebook.output.scrolling": true
+		"notebook.output.scrolling": true,
+		"spellright.language": [
+			"en"
+		],
+		"spellright.documentTypes": [
+			"markdown",
+			"latex",
+			"plaintext"
+		]
 	}
 }
