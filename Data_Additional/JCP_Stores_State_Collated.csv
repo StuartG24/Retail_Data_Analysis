@@ -1,0 +1,58 @@
+﻿State or Territory,State_ISO,State_Name,Population_2023,Store_Count
+State,AL,Alabama,"5,108,468",9
+State,AK,Alaska,"733,406",1
+State,AZ,Arizona,"7,431,344",17
+State,AR,Arkansas,"3,067,732",10
+State,CA,California,"38,965,193",63
+State,CO,Colorado,"5,877,610",12
+State,CT,Connecticut,"3,617,176",5
+State,DE,Delaware,"1,031,890",3
+State,DC,District of Columbia,"678,972",0
+State,FL,Florida,"22,610,726",44
+State,GA,Georgia,"11,029,227",15
+State,HI,Hawaii,"1,435,138",0
+State,ID,Idaho,"1,964,726",5
+State,IL,Illinois,"12,549,689",23
+State,IN,Indiana,"6,862,199",13
+State,IA,Iowa,"3,207,004",9
+State,KS,Kansas,"2,940,546",10
+State,KY,Kentucky,"4,526,154",14
+State,LA,Louisiana,"4,573,749",13
+State,ME,Maine,"1,395,722",4
+State,MD,Maryland,"6,180,253",11
+State,MA,Massachusetts,"7,001,399",8
+State,MI,Michigan,"10,037,261",23
+State,MN,Minnesota,"5,737,915",10
+State,MS,Mississippi,"2,939,690",6
+State,MO,Missouri,"6,196,156",20
+State,MT,Montana,"1,132,812",3
+State,NE,Nebraska,"1,978,379",7
+State,NV,Nevada,"3,194,176",6
+State,NH,New Hampshire,"1,402,054",5
+State,NJ,New Jersey,"9,290,841",10
+State,NM,New Mexico,"2,114,371",9
+State,NY,New York,"19,571,216",27
+State,NC,North Carolina,"10,835,491",14
+State,ND,North Dakota,"783,926",5
+State,OH,Ohio,"11,785,935",25
+State,OK,Oklahoma,"4,053,824",8
+State,OR,Oregon,"4,233,358",4
+State,PA,Pennsylvania,"12,961,683",21
+State,RI,Rhode Island,"1,095,962",2
+State,SC,South Carolina,"5,373,555",7
+State,SD,South Dakota,"919,318",2
+State,TN,Tennessee,"7,126,489",15
+State,TX,Texas,"30,503,301",72
+State,UT,Utah,"3,417,734",7
+State,VT,Vermont,"647,464",1
+State,VA,Virginia,"8,715,698",16
+State,WA,Washington,"7,812,880",15
+State,WV,West Virginia,"1,770,071",8
+State,WI,Wisconsin,"5,910,955",10
+State,WY,Wyoming,"584,057",3
+Territory,GU,Guam,"173,500",0
+Territory,PR,Puerto Rico,"3,205,691",6
+Territory,UM,US Minor Outlying Islands,300,0
+Territory,VI,US Virgin Islands,"84,905",0
+Territory,MP,Northern Mariana Islands,"47,329",0
+Territory,AS,American Samoa,"49,710",0
