@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  output-file: "2710017_BD2"
+  title: "JC Penney Analysis"
+  subtitle: "ITNPBD2 - Assignment"
+  author: "Student: 2710017"
+  date: 13 December 2024
+  date-format: "DD MMMM YYYY"
+  chapters:
+    - index.qmd
+    - Report_Final_1.ipynb
+    - Report_Final_2_Data_Analysis.ipynb
+    - Report_Final_3_Conclusions.ipynb
+    - Report_Final_4_Appendix_1_Data_Prep.ipynb
+
+format:
+  pdf:
+    documentclass: scrreprt
+    papersize: a4
+    fontsize: 11pt
+
+
+
