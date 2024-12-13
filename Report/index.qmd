@@ -1,5 +1,11 @@
 # Summary
 
-- ?? high-level summary of conclusions
-- ?? report objectives etc??
+This report describes the analysis of JC Penney customer sales and review information that has been provided in five files extracted from JCP operational information systems. The analysis was conducted using Python and Jupyter Notebooks and followed the CRISP-DM process to collate and validate the provided data before then performing appropriate data analysis to identify any insights from this data. All Python code and output is included to support the observations made.
+
+The primary conclusion from this analysis is that the quality of the data is extremely poor, there are many gaps and inconsistencies; to the extent that meaningful business analysis and conclusions are difficult to complete. So a set of data validation steps has been developed that can easily be repeated once reliable data is sourced and then further business analysis can be completed. The root causes of the data quality issues should be examined, looking at the extraction process and also the operational systems that sourced the data. Given that JCP is in the process of overhauling its customer and stock information systems then there is an opportunity to include changes that will improve future data extraction.
+
+Any business actions need to be treated carefully given the data quality issues, but two areas that might be worth examining have been identified. Firstly, there may be an opportunity to rationalise the large product range and focus on a small number of products and with a smaller product range. Profit margin and cost data will be needed to do this. Secondly, the geographic spread of customers and sales revenue doe not reflect the spread of populations across US states; the reason for this could reveal opportunities to increase sales in several large US states.
+
+
+
 
