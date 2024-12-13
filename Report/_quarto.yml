@@ -20,6 +20,14 @@ format:
     documentclass: scrreprt
     papersize: a4
     fontsize: 11pt
+    lof: false
+    lot: false
+    toc-depth: 2
+    geometry: 
+      - inner=3cm
+      - outer=3cm
+      - top=2cm
+      - bottom=3cm
 
 
 
